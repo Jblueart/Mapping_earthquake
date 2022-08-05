@@ -31,7 +31,9 @@ Once I get the Data, Style, Color & popups working, I'll create a Legend & ultim
 
 ![Circle marker earthquake radius](https://user-images.githubusercontent.com/104408782/183224670-08984763-7312-4b3a-b6f7-a042701e3683.png)
 
-
+### I love the depth of the satelite maps!
+![Satelite gorgeousness](https://user-images.githubusercontent.com/104408782/183224814-e4d53cd2-f3d7-4508-b6b0-f043ba64a502.png)
+It's so fun to be able to play with the variety of maps for this project. So many ways to look at the world. And utilizing the different styles really allows us to get a different feel for the information. Using a satelite image for instance makes the world come alive as we get a glimpse of the climate just from the variety of colors on the map. 
 
 ## Challenge
 
